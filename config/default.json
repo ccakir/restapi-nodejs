@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "2345673",
+    "expireIn": "24h"
+}
